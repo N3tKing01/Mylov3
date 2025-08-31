@@ -9,7 +9,7 @@
 # BOYKA-XD 
 > This is one of the best bots created by MIDKING TECH & MILDRED TECH. Deploy and Enjoy. Note The bot has over 700+ features 
 
-![ZANDILEMK](https://files.catbox.moe/jog59s.jpg)
+![ZANDILEMK](https://files.catbox.moe/mpx2sv.jpeg)
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=💎+BOYKA-+XD+IS+READY;TO+RULE+ON+WHATSAPP+AGAIN" alt="Footer Animation">
 </h3>
@@ -42,11 +42,11 @@ First star & Fork the repo using the button below!
 ### 2. Get Session ID
 
 ### ❄  PORTAL CODE
-[![PORTAL_CODE](https://img.shields.io/badge/PORTAL_CODE-FF7700?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000)](https://boyka-xd-pair.onrender.com//)
+[![PORTAL_CODE](https://img.shields.io/badge/PORTAL_CODE-FF7700?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000)](https://boyka-xd-pair.onrender.com)
 
 
 #### ❄  OPTION ONE
-[![PAIR_CODE_1](https://img.shields.io/badge/PAIR_CODE_1-FF7700?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000)](https://boyka-xd-pair1.onrender.com/code)
+[![PAIR_CODE_1](https://img.shields.io/badge/PAIR_CODE_1-FF7700?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000)](https://boyka-xd-pair2.onrender.com/code)
 
 > Connection issues may require VPN activation.
 
